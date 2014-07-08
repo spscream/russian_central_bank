@@ -1,4 +1,4 @@
-require 'reils/generators/migration'
+require 'rails/generators/migration'
 
 class CbrRateGenerator < Rails::Generators::Base
   include Rails::Generators::Migration
